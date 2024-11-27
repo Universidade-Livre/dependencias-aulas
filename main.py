@@ -19,7 +19,7 @@ courses = {
     "Arquitetura de Computadores I": ["Circuitos Digitais"],
     "Probabilidade e Estatística": ["Cálculo I"],
     "Cálculo II": ["Cálculo I"],
-    "Programação Funcional": [],
+    "Programação Funcional em Haskell": [],
     "Análise de Algoritmos": ["Algoritmos em Grafos"],
     "Métodos Numéricos I": ["Introdução à Ciência da Computação com Python I", "Cálculo I"],
     "Banco de Dados": [],
